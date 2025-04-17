@@ -75,15 +75,15 @@ Son implementation dans gns3 est le suivant :
 
 Voici quelques unes :
 
-- Hotspot
+- => Hotspot
 
 ![HOTSPOT](images/hotspot.png)
 
-- Restauration des configurations
+- => Restauration des configurations
 
 ![Restauration des configurations](images/Restauration.png)
 
-- Blocage du site www.youtube.com
+- => Blocage du site www.youtube.com
 
 ![Blocage du site www.youtube.com](images/youtube.png)
 
