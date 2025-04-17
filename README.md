@@ -1,4 +1,4 @@
-# 🌐 Technologie MikroTik – Mise en œuvre réseau avec GNS3
+# 🌐 Technologie MikroTik – Simulation réseau avec GNS3
 
 Ce projet présente l’implémentation et la configuration de plusieurs fonctionnalités réseau avancées à l’aide de routeurs **MikroTik**, dans un environnement de simulation **GNS3**. Il s’inscrit dans le cadre d’un travail pratique ayant pour objectif de maîtriser la gestion réseau en entreprise.
 
